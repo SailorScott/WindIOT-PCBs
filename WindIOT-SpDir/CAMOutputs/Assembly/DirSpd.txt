@@ -1,0 +1,8 @@
+Partlist exported from //turbo/Scotts Projects/FRP Eagle files/IOT Anemometer-SpDir/DirSpd.sch at 4/9/2021 2:19 PM
+
+Qty Value     Device          Package   Parts Description                                                     POPULARITY SPICEPREFIX
+1             AS5048B         TSSOP14   U1                                                                                          
+1   0.1uF     C-USC0805K      C0805K    C1    CAPACITOR, American symbol                                      19         C          
+1   10uF      C-USC0805K      C0805K    C2    CAPACITOR, American symbol                                      19         C          
+1   B05B-PASK B05B-PASK       B05B-PASK J1    JST shrouded locking header, 2mm spacing, 5 pins, through hole.                       
+1   SS451A    HONEYWELLSS451A TO-92-3   U2                                                                                          
